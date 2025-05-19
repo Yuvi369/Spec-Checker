@@ -1,0 +1,7 @@
+{
+  "Brand": "in:['Dell', 'HP', 'Asus']",
+  "RAM": ">=8",
+  "CPU": "in:['i5', 'i7']",
+  "Storage": ">=512",
+  "OS": "==Windows"
+}
